@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I am good at programming in distributed environments with high concurrency, high availability and high performance using the Java language. 
+Im good at programming in distributed environments with high concurrency, high availability and high performance using the Java language. 
 I also use Python to write some automated scripts and crawlers.
 
 
