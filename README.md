@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @0xchengzhang
 - 👀 I’m interested in Web3、block chain programming
-- 🌱 I’m currently learning typeScript、rust
+- 🌱 I’m currently learning solidity、rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I'm good at using the Java language, programming in distributed environments with high concurrency, high availability and high performance, and performance tuning. I also use Python to write some automated scripts and crawlers.
+I'm good at using the Java language, programming in distributed environments with high concurrency, high availability and high performance, and performance tuning.
 
 Welcome guys to communicate with me.
 
