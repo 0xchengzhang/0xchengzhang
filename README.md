@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xchengzhang
-- 👀 I’m interested in Web3、block chain programming
+- 👀 I’m interested in block chain programming
 - 🌱 I’m currently learning solidity、rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
